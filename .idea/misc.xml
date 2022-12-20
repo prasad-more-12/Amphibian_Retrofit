@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Amphibians/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/AndroidStudioProjects/Amphibians/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.159" />
         <entry key="..\:/AndroidStudioProjects/Amphibians/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/AndroidStudioProjects/Amphibians/app/src/main/res/layout/fragment_amphibian_details.xml" value="0.20380434782608695" />
         <entry key="..\:/AndroidStudioProjects/Amphibians/app/src/main/res/layout/fragment_amphibian_list.xml" value="0.2105978260869565" />
